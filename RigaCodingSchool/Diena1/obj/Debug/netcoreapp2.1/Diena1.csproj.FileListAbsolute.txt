@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\bin\Debug\netcoreapp2.1\Diena1.deps.json
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\bin\Debug\netcoreapp2.1\Diena1.runtimeconfig.json
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\bin\Debug\netcoreapp2.1\Diena1.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\bin\Debug\netcoreapp2.1\Diena1.dll
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\bin\Debug\netcoreapp2.1\Diena1.pdb
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.AssemblyInfo.cs
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.dll
+C:\Users\ilze\source\repos\RigaCodingSchool\Diena1\obj\Debug\netcoreapp2.1\Diena1.pdb

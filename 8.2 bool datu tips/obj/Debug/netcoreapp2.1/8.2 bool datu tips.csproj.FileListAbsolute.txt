@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.AssemblyInfo.cs
+C:\Users\ilze\source\repos\8.2 bool datu tips\bin\Debug\netcoreapp2.1\8.2 bool datu tips.deps.json
+C:\Users\ilze\source\repos\8.2 bool datu tips\bin\Debug\netcoreapp2.1\8.2 bool datu tips.runtimeconfig.json
+C:\Users\ilze\source\repos\8.2 bool datu tips\bin\Debug\netcoreapp2.1\8.2 bool datu tips.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\8.2 bool datu tips\bin\Debug\netcoreapp2.1\8.2 bool datu tips.dll
+C:\Users\ilze\source\repos\8.2 bool datu tips\bin\Debug\netcoreapp2.1\8.2 bool datu tips.pdb
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.dll
+C:\Users\ilze\source\repos\8.2 bool datu tips\obj\Debug\netcoreapp2.1\8.2 bool datu tips.pdb

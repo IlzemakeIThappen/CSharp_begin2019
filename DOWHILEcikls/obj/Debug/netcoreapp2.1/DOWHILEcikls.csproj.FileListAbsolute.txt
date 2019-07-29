@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\DOWHILEcikls\bin\Debug\netcoreapp2.1\DOWHILEcikls.deps.json
+C:\Users\ilze\source\repos\DOWHILEcikls\bin\Debug\netcoreapp2.1\DOWHILEcikls.runtimeconfig.json
+C:\Users\ilze\source\repos\DOWHILEcikls\bin\Debug\netcoreapp2.1\DOWHILEcikls.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\DOWHILEcikls\bin\Debug\netcoreapp2.1\DOWHILEcikls.dll
+C:\Users\ilze\source\repos\DOWHILEcikls\bin\Debug\netcoreapp2.1\DOWHILEcikls.pdb
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.AssemblyInfo.cs
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.dll
+C:\Users\ilze\source\repos\DOWHILEcikls\obj\Debug\netcoreapp2.1\DOWHILEcikls.pdb

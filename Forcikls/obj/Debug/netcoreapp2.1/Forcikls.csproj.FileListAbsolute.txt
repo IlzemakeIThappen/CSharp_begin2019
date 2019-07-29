@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\Forcikls\bin\Debug\netcoreapp2.1\Forcikls.deps.json
+C:\Users\ilze\source\repos\Forcikls\bin\Debug\netcoreapp2.1\Forcikls.runtimeconfig.json
+C:\Users\ilze\source\repos\Forcikls\bin\Debug\netcoreapp2.1\Forcikls.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\Forcikls\bin\Debug\netcoreapp2.1\Forcikls.dll
+C:\Users\ilze\source\repos\Forcikls\bin\Debug\netcoreapp2.1\Forcikls.pdb
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.AssemblyInfo.cs
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.dll
+C:\Users\ilze\source\repos\Forcikls\obj\Debug\netcoreapp2.1\Forcikls.pdb

@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\Math.Random\bin\Debug\netcoreapp2.1\Math.Random.deps.json
+C:\Users\ilze\source\repos\Math.Random\bin\Debug\netcoreapp2.1\Math.Random.runtimeconfig.json
+C:\Users\ilze\source\repos\Math.Random\bin\Debug\netcoreapp2.1\Math.Random.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\Math.Random\bin\Debug\netcoreapp2.1\Math.Random.dll
+C:\Users\ilze\source\repos\Math.Random\bin\Debug\netcoreapp2.1\Math.Random.pdb
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.AssemblyInfo.cs
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.dll
+C:\Users\ilze\source\repos\Math.Random\obj\Debug\netcoreapp2.1\Math.Random.pdb

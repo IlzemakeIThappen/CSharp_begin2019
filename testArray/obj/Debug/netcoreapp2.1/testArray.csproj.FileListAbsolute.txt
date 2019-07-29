@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\testArray\bin\Debug\netcoreapp2.1\testArray.deps.json
+C:\Users\ilze\source\repos\testArray\bin\Debug\netcoreapp2.1\testArray.runtimeconfig.json
+C:\Users\ilze\source\repos\testArray\bin\Debug\netcoreapp2.1\testArray.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\testArray\bin\Debug\netcoreapp2.1\testArray.dll
+C:\Users\ilze\source\repos\testArray\bin\Debug\netcoreapp2.1\testArray.pdb
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.AssemblyInfo.cs
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.dll
+C:\Users\ilze\source\repos\testArray\obj\Debug\netcoreapp2.1\testArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\bin\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.deps.json
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\bin\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.runtimeconfig.json
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\bin\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\bin\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.dll
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\bin\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.pdb
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.AssemblyInfo.cs
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.dll
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.pdb
+C:\Users\ilze\source\repos\ELEMENTUpievienosanaSarakstam\obj\Debug\netcoreapp2.1\ELEMENTUpievienosanaSarakstam.csprojAssemblyReference.cache

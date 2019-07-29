@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\bin\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.deps.json
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\bin\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.runtimeconfig.json
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\bin\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\bin\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.dll
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\bin\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.pdb
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.AssemblyInfo.cs
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.dll
+C:\Users\ilze\source\repos\WhileUnVeselsSkaitlis\obj\Debug\netcoreapp2.1\WhileUnVeselsSkaitlis.pdb

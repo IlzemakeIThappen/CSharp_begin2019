@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\7uzdevums\bin\Debug\netcoreapp2.1\7uzdevums.deps.json
+C:\Users\ilze\source\repos\7uzdevums\bin\Debug\netcoreapp2.1\7uzdevums.runtimeconfig.json
+C:\Users\ilze\source\repos\7uzdevums\bin\Debug\netcoreapp2.1\7uzdevums.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\7uzdevums\bin\Debug\netcoreapp2.1\7uzdevums.dll
+C:\Users\ilze\source\repos\7uzdevums\bin\Debug\netcoreapp2.1\7uzdevums.pdb
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.AssemblyInfo.cs
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.dll
+C:\Users\ilze\source\repos\7uzdevums\obj\Debug\netcoreapp2.1\7uzdevums.pdb

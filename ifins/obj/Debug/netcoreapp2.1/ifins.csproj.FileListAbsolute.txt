@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\ifins\bin\Debug\netcoreapp2.1\ifins.deps.json
+C:\Users\ilze\source\repos\ifins\bin\Debug\netcoreapp2.1\ifins.runtimeconfig.json
+C:\Users\ilze\source\repos\ifins\bin\Debug\netcoreapp2.1\ifins.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\ifins\bin\Debug\netcoreapp2.1\ifins.dll
+C:\Users\ilze\source\repos\ifins\bin\Debug\netcoreapp2.1\ifins.pdb
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.AssemblyInfo.cs
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.dll
+C:\Users\ilze\source\repos\ifins\obj\Debug\netcoreapp2.1\ifins.pdb

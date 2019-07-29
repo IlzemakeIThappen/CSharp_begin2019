@@ -1,0 +1,11 @@
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\bin\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.deps.json
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\bin\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.runtimeconfig.json
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\bin\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.runtimeconfig.dev.json
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\bin\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.dll
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\bin\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.pdb
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.csprojAssemblyReference.cache
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.csproj.CoreCompileInputs.cache
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.AssemblyInfoInputs.cache
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.AssemblyInfo.cs
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.dll
+C:\Users\ilze\source\repos\18.uzdevumsDiviMasivi\obj\Debug\netcoreapp2.1\18.uzdevumsDiviMasivi.pdb
